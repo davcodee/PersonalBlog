@@ -1,5 +1,5 @@
 # Personal blog :notebook:  :computer: 
-This is a instragram clone of pets maked in django
+This is a personal blog maked in django
 ##   Libraries used on the sample project :books:
 
 ## Demo app :rocket:
